@@ -1,5 +1,5 @@
-import 'package:gkdeviceapplication/app//modules/bluetooth/bluetooth_Page.dart';
-import 'package:gkdeviceapplication/app//modules/bluetooth/bluetooth_store.dart';
+import 'package:gkdeviceapplication/app/modules/bluetooth/bluetooth_page.dart';
+import 'package:gkdeviceapplication/app/modules/bluetooth/bluetooth_store.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:gkdeviceapplication/app/modules/bluetooth/page/bluetooth_page_module.dart';
 
